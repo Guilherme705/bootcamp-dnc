@@ -28,7 +28,7 @@ body{
 
     #menu{
         display: flex;
-        width: 45%;
+        width: 60%;
         justify-content: space-around;
         align-items: center;
         margin-left: 5%;
@@ -282,7 +282,7 @@ body{
         font-size: 20px;
     }
    .checkbox-itens label{
-    font-size: 17px;
+    font-size: 15px;
     }
 
     footer .linha1{
