@@ -281,6 +281,16 @@ body{
         width: 95%;
         font-size: 20px;
     }
-}   .checkbox-itens label{
+   .checkbox-itens label{
     font-size: 17px;
+    }
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .endereço{
+        width: 95%;
+        margin-bottom: 20px;
+    }
 }         
